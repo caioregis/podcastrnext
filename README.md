@@ -8,7 +8,7 @@
   Applied apiContext, react hooks, SSR (Server-side Rendering) and SSG (Static Site Generation) techniques
 </p>
 
-![Podcastr preview](https://raw.githubusercontent.com/caioregis/podcastrnext/main/public/overview.gif)
+![Podcastr preview](https://github.com/caioregis/podcastrnext/blob/main/public/overview.gif?raw=true)
 
 ## Tecnologies
 
