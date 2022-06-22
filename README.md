@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/caioregis/podcastrnext/main/public/logo.svg" alt="Podcastr logo">
 </div>
 <p>
-  Podcastr is a platform built for podcast broadcasting developed during NWL5 by <a href="https://github.com/Rocketseat">Rocketseat</<a>.
+  Podcastr is a platform built for podcast broadcasting developed during NWL5 by <a href="https://github.com/Rocketseat">Rocketseat</a>.
 </p>
 <p>
   Applied apiContext, react hooks, SSR (Server-side Rendering) and SSG (Static Site Generation) techniques
