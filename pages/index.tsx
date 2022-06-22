@@ -31,12 +31,6 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
   const { playList } = usePlayer();
   const episodeList = [...latestEpisodes, ...allEpisodes];
 
-  // useEffect(() => {
-  //   fetch('')
-  //     .then(response => response.json())
-  //     .then(data => console.log(data))
-  // }, []);
-
   return (
     <div className={styles.homePage}>
       <Head>
